@@ -24,15 +24,15 @@ ResumeRevealer is an advanced tool designed for HR professionals, recruiters, an
 
 ## Screenshots
 
-![Resume Text Extraction](https://drive.google.com/file/d/1vmjzPzQBAfQHHzDOGl5C05fhazHN88_4/view?usp=sharing)
+![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/text-extraction.png)
 
-![Resume Text Extraction](https://drive.google.com/file/d/1vmjzPzQBAfQHHzDOGl5C05fhazHN88_4/view?usp=sharing)
+![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/resume-section.png)
 
-![Resume Text Extraction](https://drive.google.com/file/d/1vmjzPzQBAfQHHzDOGl5C05fhazHN88_4/view?usp=sharing)
+![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/jobtitle.png)
 
-![Resume Text Extraction](https://drive.google.com/file/d/1vmjzPzQBAfQHHzDOGl5C05fhazHN88_4/view?usp=sharing)
+![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/onet-occupation.png)
 
-![Resume Text Extraction](https://drive.google.com/file/d/1vmjzPzQBAfQHHzDOGl5C05fhazHN88_4/view?usp=sharing)
+![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/skills-proj-desp.png)
 
 
 ## Demo
@@ -44,22 +44,22 @@ Insert gif or link to demo
 
 Install ResumeRevealer with python >= 3.9
 
-Tested on python 3.11
+> Tested on python 3.11
 
-bash
+```bash
   git clone <repo>
   cd my-project
-
+```
 
 Install the requirements.
 
-bash
+```bash
   pip install -r requirements.txt 
-
+```
 
 Download the Custom trained NER Model: 
 > https://drive.google.com/drive/folders/1hX-Lx1Q7yRV1kPSXvgRyBgB_WEMnz0aw?usp=sharing
 save it in a : models/ner/<above folder>
 
 ### *Run*
-toolkit.ipynb
+```toolkit.ipynb```
