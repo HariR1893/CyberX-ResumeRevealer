@@ -24,14 +24,19 @@ ResumeRevealer is an advanced tool designed for HR professionals, recruiters, an
 
 ## Screenshots
 
+### **Text Extraction**
 ![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/text-extraction.png)
 
+### **Resume Section**
 ![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/resume-section.png)
 
+### **Find Job Title**
 ![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/jobtitle.png)
 
+### **Find ONET-Occupation**
 ![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/onet-occupation.png)
 
+### **Extract Skills from Porject Description**
 ![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/skills-proj-desp.png)
 
 
@@ -59,7 +64,8 @@ Install the requirements.
 
 Download the Custom trained NER Model: 
 > https://drive.google.com/drive/folders/1hX-Lx1Q7yRV1kPSXvgRyBgB_WEMnz0aw?usp=sharing
-save it in a : ```models/ner/<above folder>```
+
+> save it in a : ```models/ner/<above folder>```
 
 ### *Run*
 ```toolkit.ipynb```
