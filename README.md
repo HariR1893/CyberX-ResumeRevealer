@@ -67,7 +67,7 @@ Install the requirements.
 Download the Custom trained NER Model:
 > Download the pre-trained model -> [click here](https://drive.google.com/drive/folders/1hX-Lx1Q7yRV1kPSXvgRyBgB_WEMnz0aw?usp=sharing)
 > save it in a :
-> ```models/ner/<above folder>```
+> ```models/ner/JdModel```
 
 ### *Run*
 
