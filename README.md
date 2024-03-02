@@ -45,7 +45,8 @@ ResumeRevealer is an advanced tool designed for HR professionals, recruiters, an
 
 ## Demo
 
-![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/assets/video.mp4)
+https://github.com/HariR1893/CyberX-ResumeRevealer/assets/84437531/c30d47a2-1e1f-44ab-b63f-a9f853b50fc2
+
 
 ## Installation
 
