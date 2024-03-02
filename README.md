@@ -45,7 +45,7 @@ ResumeRevealer is an advanced tool designed for HR professionals, recruiters, an
 
 ## Demo
 
-Insert gif or link to demo
+![Resume Text Extraction](https://github.com/HariR1893/CyberX-ResumeRevealer/blob/main/images/video.mp4)
 
 ## Installation
 
@@ -54,8 +54,8 @@ Install ResumeRevealer with python >= 3.9
 > Tested on python 3.11
 
 ```bash
-  git clone <repo>
-  cd my-project
+  git clone https://github.com/HariR1893/CyberX-ResumeRevealer.git
+  cd CyberX-ResumeRevealer
 ```
 
 Install the requirements.
@@ -65,7 +65,7 @@ Install the requirements.
 ```
 
 Download the Custom trained NER Model:
-> Download the pre-trained model [click here](https://drive.google.com/drive/folders/1hX-Lx1Q7yRV1kPSXvgRyBgB_WEMnz0aw?usp=sharing)
+> Download the pre-trained model -> [click here](https://drive.google.com/drive/folders/1hX-Lx1Q7yRV1kPSXvgRyBgB_WEMnz0aw?usp=sharing)
 > save it in a :
 > ```models/ner/<above folder>```
 
