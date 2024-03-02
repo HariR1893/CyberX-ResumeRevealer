@@ -59,7 +59,7 @@ Install the requirements.
 
 Download the Custom trained NER Model: 
 > https://drive.google.com/drive/folders/1hX-Lx1Q7yRV1kPSXvgRyBgB_WEMnz0aw?usp=sharing
-save it in a : models/ner/<above folder>
+save it in a : ```models/ner/<above folder>```
 
 ### *Run*
 ```toolkit.ipynb```
